@@ -6,4 +6,5 @@
   android:background="@android：color/darker_gray"
   android:text="Hello World,I love the ANDROID!!"
   android:textAppearance="?android:textAppearanceLarge" 
+  android:textColor="#607D8B"
 />

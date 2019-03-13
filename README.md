@@ -1,5 +1,5 @@
 # Beginner
-This is my progress of learning python programing.
+These are my code files of learning python programing as a beginner.
 # Usage
 
 # Coverage

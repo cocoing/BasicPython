@@ -1,1 +1,1 @@
-bday = input("")
+print("hello world")
